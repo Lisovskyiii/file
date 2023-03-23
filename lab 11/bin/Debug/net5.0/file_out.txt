@@ -1,0 +1,16 @@
+Programmer: Lisovskyi Kirill
+
+ABC 1234 ---> ABC 1235
+XYZ 9999 ---> XZA 9981
+XYZ 9980 ---> XYZ 0000
+BZZ 9999 ---> CAA 0000
+ZZZ 9999 ---> The last one 
+PQR 9999 ---> PQS 0000
+AAA 0000 ---> AAA 0001
+KKZ 9999 ---> KLA 0000
+YYY 1111 ---> YYY 1112
+ZHZ 2342 ---> ZHZ 2343
+KKK 9999 ---> KKL 0000
+SSS 9999 ---> SST 0000
+
+Number of plates processed: 12
